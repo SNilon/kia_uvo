@@ -8,7 +8,6 @@
   "iot_class": "cloud_polling",
   "issue_tracker": "https://github.com/Hyundai-Kia-Connect/kia_uvo/issues",
   "loggers": ["kia_uvo", "hyundai_kia_connect_api"],
-  "requirements": ["SNilon/hyundai_kia_connect_api==master"],
-  "requirements": ["master@git+https://github.com/SNilon/hyundai_kia_connect_api.git"],
+  "requirements": ["hyundai_kia_connect_api@git+https://github.com/SNilon/hyundai_kia_connect_api.git@master"],
   "version": "2.36.1"
 }
